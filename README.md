@@ -1,0 +1,1 @@
+This repo is designated for practice exercises. I will keep it private because I am not sure if LaunchCode is willing for these practice exercises to be public as I know they have put a lot of work into them.
