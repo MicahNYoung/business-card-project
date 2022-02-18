@@ -26,9 +26,7 @@ function findNumOfTallestCandles(array) {
     for(let i = 0; i < n; i++) {
         if (array[i] === tallestCandle) {
             number++;
-            console.log(array[i])
         } else {
-            console.log(array[i])
             break;
         }
     }
@@ -36,3 +34,5 @@ function findNumOfTallestCandles(array) {
 }
 
 findNumOfTallestCandles(array1)
+findNumOfTallestCandles(array2)
+findNumOfTallestCandles(array3)
