@@ -8,10 +8,13 @@ import { Footer } from './Components/Footer';
 
 export function App(){
     return(
-        <div className="app">
-            <Info/>
-            <About/>
-            <Interests/>
-            <Footer/>
+        <div>
+            <div className="app">
+                <Info/>
+                <About/>
+                <Interests/>
+                <Footer/>
+             </div>
         </div>
+        
 )}

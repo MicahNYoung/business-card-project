@@ -10,9 +10,6 @@ export function Info(){
             <h4>https://github.com/MicahNYoung</h4>
             <nav>
                 <form action="https://www.linkedin.com/in/micah-young-4515b818b/">
-                    <input type="submit" value="Email" />
-                </form>
-                <form action="https://www.linkedin.com/in/micah-young-4515b818b/">
                     <input type="submit" value="LinkedIn" />
                 </form>
             </nav>
